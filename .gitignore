@@ -44,3 +44,5 @@ build/
 
 ## remove o arquivo usado para push que contém o token
 gitpush.bat
+
+*.db
