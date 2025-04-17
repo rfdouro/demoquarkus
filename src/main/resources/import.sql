@@ -1,0 +1,3 @@
+--INSERT INTO produtos (id, nome, preco) VALUES (1, 'Notebook', 3500.00);
+--INSERT INTO produtos (id, nome, preco) VALUES (2, 'Smartphone', 1500.00);
+--INSERT INTO produtos (id, nome, preco) VALUES (3, 'Tablet', 1200.00);

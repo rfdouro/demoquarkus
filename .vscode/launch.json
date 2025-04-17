@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug Quarkus (Dev Mode)",
+      "request": "attach",
+      "hostName": "localhost",
+      "port": 5005,
+      "projectName": "demoquarkus"
+    },
+    {
+      "type": "java",
+      "name": "Launch Quarkus (Dev Mode)",
+      "request": "launch",
+      "mainClass": "io.quarkus.runner.GeneratedMain",
+      "projectName": "demoquarkus",
+      "cwd": "${workspaceFolder}",
+      "args": "--debug=5005"
+    }
+  ]
+}
